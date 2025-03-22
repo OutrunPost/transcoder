@@ -123,7 +123,7 @@ You can easily tweak:
 
 ## 🧑‍💻 Author
 
-Made by [Your Name or Company]  
+Made by [Outrun Post LLC]  
 🎛️ Optimized for audio/video workflows on macOS
 
 ---
